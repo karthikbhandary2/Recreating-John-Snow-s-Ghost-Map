@@ -9,3 +9,9 @@ As a leading advocate of both anesthesia and hygienic practices in medicine, he 
 But, as we will show later, not all his life was just a success. John Snow is now also recognized as one of the founders of modern epidemiology (some also consider him as the founder of data visualization, spatial analysis, data science in general, and many other related fields) for his scientific and pretty modern data approach in identifying the source of a cholera outbreak in Soho, London in 1854, but it wasn't always like this. In fact, for a long time, he was simply ignored by the scientific community and currently is very often mythified.
 
 In this notebook, we're not only going to rediscover his "data story", but reanalyze the data that he collected in 1854 and recreate his famous map (also called The Ghost Map)
+
+P.S: The plots are not loading for some reason so here are the two plots from [39] and [42]
+
+![map](https://user-images.githubusercontent.com/34509856/147360773-9f10ddbf-4edf-4e09-a3d5-cca16eea0467.png)
+
+![linegraph](https://user-images.githubusercontent.com/34509856/147360779-70321f30-ebc1-46a4-98d0-0c6c0e0adbab.png)
